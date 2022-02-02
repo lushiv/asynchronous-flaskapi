@@ -48,4 +48,4 @@ async def get_json_data():
 ```
 The function will do nothing just read the `json data` and asynchronously wait for 5 seconds and then return `return_data`.
 
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/mqyq9D1/Screenshot-from-2022-02-02-23-10-25.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/d2p2PW1/Screenshot-from-2022-02-02-23-10-25.jpg" height="255px"/></a>
